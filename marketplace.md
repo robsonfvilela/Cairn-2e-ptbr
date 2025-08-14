@@ -11,7 +11,7 @@ grand_parent: Second Edition
 
 ## Armadura
 
-|                                      |      |
+|  Armadura                                    | PO     |
 | ------------------------------------ | ---- |
 | Escudo (+1 Armadura)                 | 10   |
 | Elmo (+1 Armadura)                   | 10   |
