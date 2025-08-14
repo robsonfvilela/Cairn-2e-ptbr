@@ -11,3 +11,10 @@
 - [Visão Geral & Prinçipio](overview-and-principles.md)
 - [Procedimentos](procedures.md)
 - Vald
+
+
+## Changelog
+
+**2025-08-14:**
+- Primeira versão da tradução do _Guia do Jogador_.
+- Nenhuma revisão foi feita ainda.
