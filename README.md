@@ -8,6 +8,6 @@
 - [Criação de Personagem](character-creation.md)
 - [Regras Básicas](core-rules.md)
 - [Mercado](marketplace.md)
-- Visão Geral & Prinçipio
-- Procedures
+- [Visão Geral & Prinçipio][overview-and-principles.md]
+- [Procedimentos](procedures.md)
 - Vald
