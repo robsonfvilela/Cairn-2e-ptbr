@@ -1,0 +1,191 @@
+---
+layout: default
+title: Character Creation
+parent: Player's Guide
+grand_parent: Second Edition
+---
+
+# Criação de Personagem 
+
+## Role ou escolha um Antecedente
+
+- Primeiro, role ou escolha da tabela de [Antecedentes](#antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
+- Escolha um nome da lista disponível e registre cada um dos itens iniciais do seu personagem Veja [Inventário](#inventário) e [Espaços de Inventário](#espaços-de-inventário) para saber como registrar os itens. 
+- Role em cada uma das tabelas incluídas em Antecedente. Registre os itens, perícias ou habilidades do seu personagem em cada resultado. Alguns antecedentes podem pedir que você consulte também as tabelas do [Mercado](/second-edition/players-guide/marketplace).
+
+## Antecedentes
+
+|||||
+|---|---|---|---|
+|**d20**|**Antecedente**|||
+|**1**|[Aurifex](/second-edition/backgrounds/aurifex)|**11**|[Meia-Bruxa](/second-edition/backgrounds/half-witch)|
+|**2**|[Barbeiro-Cirurgião](/second-edition/backgrounds/barber-surgeon)|**12**|[Caça-Feiticeiros](/second-edition/backgrounds/hexenbane)|
+|**3**|[Domador de Bestas](/second-edition/backgrounds/beast-handler)|**13**|[Jogral](/second-edition/backgrounds/jongleur/)|
+|**4**|[Guardião dos Ossos](/second-edition/backgrounds/bonekeeper/)|**14**|[Caldeireiro](/second-edition/backgrounds/kettlewright)|
+|**5**|[Batedor de Bolsos](/second-edition/backgrounds/cutpurse)|**15**|[Guarda da Fronteira](/second-edition/backgrounds/marchguard/)|
+|**6**|[Guarda de Campo](/second-edition/backgrounds/fieldwarden/)|**16**|[Charlatão](/second-edition/backgrounds/mountebank)|
+|**7**|[Fabricante de Flechas](/second-edition/backgrounds/fletchwind)|**17**|[Batedor Montado](/second-edition/backgrounds/outrider)|
+|**8**|[Enjeitado](/second-edition/backgrounds/foundling)|**18**|[Predador](/second-edition/backgrounds/prowler)|
+|**9**|[Forrageiro de Fungos](/second-edition/backgrounds/fungal-forager)|**19**|[Corredor do Riacho](/second-edition/backgrounds/rill-runner)|
+|**10**|[Sábio das Ervas](/second-edition/backgrounds/greenwise/)|**20**|[Escriba](/second-edition/backgrounds/scrivener)|
+
+## Atributos, Pontos de Guarda e Características 
+
+Role para definir os **Atributos** e **Pontos de Guarda** do Personagem.
+- Role para definir o restante das [Características](#character-traits-d10) e depois na tabela de [Laços](#bonds).
+- Finalmente, role para determinar a **Idade** do seu personagem (2d20+10). Se você for _o personagem mais jovem_, role na tabela de [Presságios](#omens). O resultado deve ser lido em voz alta para os outros jogadores. O Guardião deve incorporar Presságios ao cenário conforme achar adequado.
+
+## Atributos
+
+Um Personagem Jogador tem apenas três Atributos: **Força (FOR)**, **Destreza (DES)** e **Força de Vontade (VON)**. 
+[parcial]- Role 3d6 para cada um dos **Atributos** do seu personagem, em ordem. Você pode então trocar quaisquer dois dos resultados. 
+- Atributos não são descritores universais. Um personagem com FOR baixa não é necessariamente irremediavelmente fraco; ele ainda pode tentar levantar uma porta pesada ou sobreviver a uma luta mortal! O risco é simplesmente maior. 
+
+Pontos de Guarda
+
+- Role 1d6 para determinar a **Proteção contra Golpes** (PG) inicial do seu PJ, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem ele a perde por muito tempo. Veja [Cura & Recuperação](/second-edition/players-guide/core-rules#healing--recovery) 
+- Se um ataque levar a PG de um PJ exatamente a 0, o jogador deve rolar na tabela de [**Cicatrizes**](/second-edition/players-guide/core-rules#scars).
+
+## Inventário
+
+- Os personagens têm um total de 10 espaços de inventário, mas só podem carregar quatro ou cinco itens confortavelmente sem a ajuda de bolsas, mochilas, cavalos, carrinhos, etc.
+- Cada PJ começa com uma **Mochila** que pode ter até seis espaços de itens ou fica com **Fadiga**. Carirnhos (que devem ser puxadas com as duas mãos), cavalos ou mulas podem fazer uma grande diferença em quanto um PJ pode levar consigo em uma aventura. **Mercenários** também podem ser contratados para transportar equipamentos. 
+- O inventário é abstrato, dependendo apenas da ficção e do julgamento do Guardião. Qualquer um que esteja com o inventário cheio (ou seja, preenchendo todos os 10 espaços) é reduzido a 0 PG. Um personagem não pode preencher mais do que dez espaços.
+
+### Espaços de Inventário
+
+- A maioria dos itens ocupa apenas um espaço, a menos que indicado de outra forma. 
+- Itens _Miúdos_ não ocupam espaço. Itens _Volumosos_ ocupam **dois** espaços. 
+- Um saco de moedas com valor inferior a 100 PO é considerado _miúdo_ e não ocupa espaço.
+
+## Características de Personagem (d10)
+
+### Físico
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1 | Alto | 6 | Esguio |
+| 2 | Atlético | 7 | Flácido |
+| 3 | Baixo | 8 | Magricelo |
+| 4 | Calejado | 9 | Musculoso |
+| 5 | Escultural | 10 | Robusto |
+
+### Pele
+
+| | | | |
+| --- | --- | --- | --- |
+| **1** | Marca de nascença | **6** | Macia |
+| **2** | Marcada | **7** | Bronzeada |
+| **3** | Oleosa | **8** | Tatuada |
+| **4** | Rosada | **9** | Envelhecida |
+| **5** | Cicatrizada | **10** | Membrana |
+
+### Cabelo
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1 | Cacheado | 6 | Oleoso |
+| 2 | Careca | 7 | Ondulado |
+| 3 | Crespo | 8 | Ralo |
+| 4 | Longo | 9 | Sujo |
+| 5 | Luxuoso | 10 | Trançado |
+
+### Rosto
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1 | Alongado | 6 | Perfeito |
+| 2 | Encovado | 7 | Pálido |
+| 3 | Esculpido | 8 | Quadrado |
+| 4 | Fino | 9 | Quebrado |
+| 5 | Ossudo | 10 | Redondo ||
+
+### Fala
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1 | Direta | 6 | Grave |
+| 2 | Enigmática | 7 | Precisa |
+| 3 | Estridente | 8 | Sussurrante |
+| 4 | Formal | 9 | Trovejante |
+| 5 | Gagueja | 10 | Zumbida |
+
+### Roupas
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1 | Antiquadas | 6 | Ensanguentadas |
+| 2 | Desalinhadas | 7 | Estranhas |
+| 3 | Desgastadas | 8 | Imundas |
+| 4 | Elegantes | 9 | Rançosas |
+| 5 | Enlameadas | 10 | Uniformes |
+
+### VIrtude
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1 | Ambicioso | 6 | Humilde |
+| 2 | Cauteloso | 7 | Piedoso |
+| 3 | Corajoso | 8 | Sereno |
+| 4 | Disciplinado | 9 | Sociável |
+| 5 | Honrável | 10 | Tolerante |
+
+### Vício
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1 | Agressivo | 6 | Preguiçoso |
+| 2 | Amargurado | 7 | Rude |
+| 3 | Covarde | 8 | Traiçoeiro |
+| 4 | Ganancioso | 9 | Vaidoso |
+| 5 | Nervoso | 10 | Vingativo |
+
+## Vínculos
+
+|||
+|---|---|
+|**D20**|**Laço**|
+|**1**|Você herdou uma **Única Gema** (500 PO, fria e quebradiça) de um parente há muito falecido. Ela veio acompanhada de um aviso: se desperdiçar sua nova fortuna, uma dívida há muito esquecida será cobrada.                                                                                       |**2**|Um primo distante lhe deixou uma pequena herança. Receba **20 PO** e uma **Bússola Estranha** (_pequena_) que sempre aponta para algo nas profundezas da Mata.                                                                                                                              |**3**|Você carrega um **Retrato** num medalhão (_pequeno_) de um antigo amor que desapareceu na Mata há muito tempo. De alguma forma, você sabe que essa pessoa ainda está viva.                                                                                                                                    |**4**|Você encontrou um **Pequeno Prisma de Cristal** (_pequeno_) enterrado na terra. Quando segurando contra a luz, ele mostra visões de um local desconhecido nas profundezas da Mata. Às vezes, você sente uma presença olhando de volta.                                                                         |
+|**5**|Certa vez, você libertou uma Náyade de um riacho sufocado. Em troca, ela lhe deu **Musgo Prateado** (_pequeno_).. Engula-o próximo à água, e a criatura virá, uma vez, para saldar sua dívida.                                                                                                                    |
+|**6**|Você herdou um velho **Diário**, encadernado em casca de árvore. Todas as noites, suas páginas se preenchem com os eventos do dia, escritos grosseiramente sob a perspectiva do próprio diário. A escrita é rude, mas precisa.                                                                                       |
+|**7**|Você protege um segredo de família adormecido há muito tempo. Pegue metade de uma **Chave Ancestral** (_pequena_).  Dizem que, se unida à sua gêmea, ela abre um **Portal** através de qualquer porta.                                                                                                                    |
+|**8**|Você recebeu uma **Carta** (_pequena_) contendo provas irrefutáveis de que sua verdadeira linhagem é de nobreza feérica. A nota também indica uma data e um local onde você deve encontrar o autor, nas profundezas da Mata.                                                  |
+|**9**|Você deve uma grande dívida a um membro da nobreza e carrega seu **Anel de Sinete** (_pequeno_), que serve tanto como prova de sua proteção quanto de sua obrigação.                                                                                                                        |
+|**10**|Você ingeriu um **Espírito Travesso** que causa confusão em seu interior, exigindo ser levado para casa, nas profundezas da Mata. Ele ocupa um espaço, mas absorve uma **Fadiga** por dia. Ele quer você vivo (por enquanto). |
+|**11**|Um contador de histórias errante certa vez lhe falou sobre um grande tesouro escondido nas profundezas da Mata. Você achou que fosse só fantasia, até que ele lhe deu **Um Mapa Enrolado** (_pequeno_) marcado com um X.|
+|**12**|Durante suas viagens, você encontrou um caçador moribundo que lhe pediu para entregar uma mensagem a seus entes queridos. Pegue uma **Carta** (_pequena_), selada com seiva de árvore. Está endereçada apenas ao **Senhor do Inverno**.                                                                                   |
+|**13**|Você encontrou um animal ferido na floresta, mas escolheu ignorá-lo. Agora você a vê em todo lugar, mas apenas quando está sozinho. Ele arece triste, mas não bravo. Você não pode entrar em _pânico_ quando age sozinho.                                                                                       |
+|**14**|Você prometeu a um amigo de infância que traria para ele um presente raro, algo único em todo o mundo. Pegue uma **Pulseira** (_pequena_) trançada com barbante e flores silvestres.                                                                                                               |
+|**15**|Você cruzou o caminho de uma criatura da Mata, e ela o amaldiçoou com um **Coração de Pedra**. A cada mês que passa, a pedra fica mais pesada e ocupa mais um espaço. Até que sua dívida seja quitada, você não pode realmente morrer.                                                                      |
+|**16**|Você esculpiu um **Apito** (_pequeno_) a partir do galho de um **Senhor Carvalho**. Seu ato não passou despercebido. Você também não consegue se livrar do apito.                                                                                                                                  |
+|**17**|A **Brigada da Aurora** prestou um serviço à sua família, entregando-lhe uma **Flor Vermelho-Sangue** seca (_pequena_) como prova. Quando a flor ficar branca, significa que o favor será cobrado.                                                                                                                     |
+|**18**|Um artista itinerante certa vez visitou sua casa, enchendo-a de histórias e canções. Um dia, ele partiu sem dizer uma palavra, deixando para trás apenas **Um Alaúde em Miniatura**. Algo chocalha dentro dele.                                                                                                               |
+|**19**|Um corvo branco apareceu para você em um sonho, segurando um graveto no bico. Você acordou na manhã seguinte com o **Graveto** (_pequeno_) na mão. Você acredita que isso lhe traz boa sorte. Tem um leve cheiro de enxofre.                                                                                  |
+|**20**|Um de seus ancestrais ofendeu uma **Bruxa do Musgo**, que amaldiçoou sua linhagem. Sua **aparência** faz espelhos se quebrarem. Você notou que, às vezes, os cacos revelam ilusões.                                                                                                        |
+
+
+## Presságios
+
+| | |
+| --- | --- |
+| **d20** | **Presságio** |
+|**1**|As outrora ricas águas de um rio vital tornaram-se negras e fétidas, contaminando a terra e adoecendo quem delas bebe. Um ancião da aldeia aponta uma recente profanação como causa, mas a maioria ignora suas palavras.               |
+|**2**|Parece que o inverno chegou cedo demais este ano, com geadas e neves aparecendo muito antes do esperado. Há quem fale sobre um padrão no gelo encontrado em janelas, lagoas e rachaduras no solo. Quase parece um mapa. |
+|**3**|Uma névoa espessa e antinatural começou a invadir um bosque antigo e sagrado. Dizem ser obra de um grande espírito da floresta, enfurecido pelo desmatamento próximo.                                                                                  |
+|**4**|O céu noturno fica mais escuro a cada noite, como se as estrelas estivessem desaparecendo uma a uma. Rumores sobre criaturas infernais raptando fazendeiros e arrastando-os para as Raízes se espalham como fogo. Os anciãos acreditam que há relação.     |
+|**5**|Os pássaros canoros da Mata caíram em um silêncio inquietante. Caçadores afirmam ter visto uma figura espectral vagando pela floresta, olhando com saudade para qualquer um que encontre.                                                          |
+|**6**|Estranhas pedras em forma de lágrima foram encontradas pela região, causando uma espécie de “corrida do ouro” entre joalheiros e ladrões. Os locais acreditam que são lágrimas da própria terra, chorando por uma grande tragédia que está por vir.             |
+|**7**|Pragas vorazes corroem as bordas dos sonhos, e fazendeiros falam sobre um zumbido alto vindo das profundezas da Mata. Eles também dizem que o som está se aproximando.                                                                |
+|**8**|Há uma aldeia conhecida por sua impressionante “árvore-mãe”, que supostamente guarda os segredos da cidade em seus galhos. Recentemente, ela começou a sangrar seiva vermelha, preocupando os anciãos.                                                             |
+|**9**|A lua fica de um vermelho profundo, banhando a noite numa luz sangrenta e estranha. Alguns dizem que isso anuncia uma era de caos, quando as barreiras entre a Mata e o mundo mortal se enfraquecem.                                              |
+|**10**|Fissuras estranhas surgiram no céu noturno, revelando um turbilhão de luz e cor. Alguns dizem que a divisão entre os reinos está no ponto mais frágil em séculos, e temem o que possa surgir do outro lado.                                |
+|**11**|Uma flor que floresce à noite e antes se pensava extinta está brotando por toda a Mata. Seu perfume é intoxicante, mas provoca pesadelos vívidos.                                                                                                  |
+|**12**|O gado local anda cada vez mais agitado e difícil de controlar. Um velho pastor diz que é por causa de um uivo inquietante que vem da Mata a cada lua cheia.                                                                 |
+|**13**|Enxames de insetos fogem da Mata em massa, destruindo qualquer estrutura de madeira que encontrem. O som de suas asas entoa uma melodia familiar, como uma cantiga de ninar esquecida.                                  |
+|**14**|Caçadores falam de uma maldição que atinge qualquer um que mate uma besta com uma listra de pelo branco: logo depois, são encontrados mortos em casa. A cada dia, há menos criaturas para caçar.                                                                    |
+|**15**|Dizem que uma risada fraca pode ser ouvida ecoando de poços por toda a cidade, e que o eco se transforma em soluços à noite.                                                                                                                  |
+|**16**|As constelações começaram a mudar lentamente no céu noturno, formando padrões desconhecidos que deixam astrônomos e sábios perplexos. Até mesmo os animais parecem perturbados.                                                                           |
+|**17**|Uma árvore antiga no coração de uma aldeia pacata murchou e morreu de repente, sem sinais de doença.  Ao cortar seu tronco, encontraram uma mão ensanguentada no centro.                                                                |
+|**18**|Estátuas têm chorado sangue por meses, e os ventres da aldeia permanecem estéreis desde então.   Apenas uma criança nasceu nesse período, mantida escondida pelos anciãos, tomados pelo medo e pelo pressentimento.                                           |
+|**19**|A fauna local está agindo de maneira estranha, demonstrando agressividade ou fugindo da região. Caçadores falam de uma figura sombria que vaga pela Mata, chamando os animais.                                                                |
+|**20**|Cidades na fronteira tornaram-se turbulentas nas últimas semanas após vários relatos de uma figura de manto vermelho aparecendo nos sonhos das crianças, dizendo o mesmo aviso: “Um fogo está vindo, e ele consumirá tudo.”                                    |
