@@ -12,37 +12,37 @@ grand_parent: Second Edition
 ### O Básico
 
 - O ciclo de exploração de masmorras (veja abaixo) é dividido em uma série de **Turnos**, **Ações** e suas consequências. 
-- No seu **turno**, um personagem pode se mover por uma distância igual ao perímetro da luz de sua tocha (cerca de 12 metros) e realizar **uma ação**. Os jogadores podem usar sua **ação** para se mover até três vezes essa distância, mas isso aumentará a chance de acionar uma rolagem na tabela de [**Eventos de Masmorra**](#Eventos-na-Masmorra).
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- No seu **turno**, um personagem pode se mover por uma distância igual ao perímetro da luz de sua tocha (cerca de 12 metros) e realizar **uma ação**. Os jogadores podem usar sua **ação** para se mover até três vezes essa distância, mas isso aumentará a chance de acionar uma rolagem na tabela de [**Eventos na Masmorra**](#Eventos-na-Masmorra).
+- O **Guardião** deve apresentar informações óbvias sobre uma área e seus perigos livremente e sem custo. Mover-se rapidamente ou sem cautela pode aumentar a chance de encontrar um monstro errante, acionar uma armadilha ou provocar uma rolagem na tabela de [**Eventos na Masmorra**](#Eventos-na-Masmorra).
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+> Embora o termo “masmorra” [Dungeon] seja usado aqui, ele pode significar qualquer local perigoso (mansões, fazendas, locais de aventura, etc.).
 
 ### Ciclo de Exploração da Masmorra
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+1. O **Guardião** descreve o que cerca o grupo e quaisquer perigos imediatos (combate, armadilhas, surpresas etc.). Os jogadores então declaram os movimentos e **ações** pretendidos de seus personagens. 
+2. O Guardião resolve as **ações** de cada personagem simultaneamente, juntamente com quaisquer **ações** já em andamento. Lembre-se: o Dado do Destino pode ser uma ferramenta útil sempre que o Guardião estiver em dúvida!
+3. Os jogadores registram qualquer perda de recursos e quaisquer novas condições (uso de itens, _privação_, etc.). O ciclo então começa novamente. e apropriado, o **Guardião** deve rolar na tabela de [**Eventos na Masmorra**](#Eventos-na-Masmorra). Use o bom senso ao interpretar os resultados! 
 
 ### Eventos na Masmorra
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+Explorar uma masmorra é sempre perigoso, e o tempo deve ser sempre ponderado em relação ao risco de despertar os habitantes do local, perigos naturais e piores ameaças.    
+Quando o grupo:
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+- Passa mais de um ciclo de masmorra em uma única sala ou local
+- Move-se rapidamente ou de forma descuidada por um cômodo
+- Entra em uma nova área, nível ou zona
+- Cria uma perturbação barulhenta 
 
-**Roll on the table below.**
+**Role na tabela abaixo:**
 
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+|  1d6  |              |                                                                                                                                                      |
+|:-----:|:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Encontro** | Role em uma tabela de encontros. Possivelmente **hostil**. (Veja [Reações](core-rules.md#Reações).) |
+| **2** |  **Sinal**   | Um indício, rastro, pegada, covil abandonado, cheiro, vítima etc. é descoberto.                  |
+| **3** | **Ambiente** | O ambiente muda ou se agrava. A água sobe, tetos desabam, um ritual se aproxima da conclusão etc.                                                    |
+| **4** |  **Perda**   | Tochas se apagam, uma magia em andamento se desfaz etc. O grupo deve resolver o efeito antes de seguir. |
+| **5** | **Exaustão** | O grupo deve descansar (acionando outra rolagem nesta tabela), ganhar **Fadiga** ou consumir uma ração.    |
+| **6** | **Silêncio** | O grupo fica sozinho (e seguro) por enquanto.                           |
 
 ### Ações
 
