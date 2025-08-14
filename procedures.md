@@ -12,7 +12,7 @@ grand_parent: Second Edition
 ### O Básico
 
 - O ciclo de exploração de masmorras (veja abaixo) é dividido em uma série de **Turnos**, **Ações** e suas consequências. 
-- No seu **turno**, um personagem pode se mover por uma distância igual ao perímetro da luz de sua tocha (cerca de 12 metros) e realizar **uma ação**. Os jogadores podem usar sua **ação** para se mover até três vezes essa distância, mas isso aumentará a chance de acionar uma rolagem na tabela de [**Eventos de Masmorra**](#Eventos na Masmorra.
+- No seu **turno**, um personagem pode se mover por uma distância igual ao perímetro da luz de sua tocha (cerca de 12 metros) e realizar **uma ação**. Os jogadores podem usar sua **ação** para se mover até três vezes essa distância, mas isso aumentará a chance de acionar uma rolagem na tabela de [**Eventos de Masmorra**](procedures.md#Eventos na Masmorra.
 - The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
 
 > Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
