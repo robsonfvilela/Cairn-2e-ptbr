@@ -4,7 +4,7 @@
 > - Esta tradução foi feita por mim, e é a primeira tradução que eu faço na vida. Não tenho nenhuma pretenção de atingir o mesmo nível de um tradutor profissional e a maior parte dela foi feita usando o ChatGPT, com revião minha.
 > - Algumas partes eu copiei da tradução da [Primeira Edição](https://cairnrpg.com/localization/first-edition/brazilian-portuguese/), traduzida por [Xenio](https://xenioinabottle.blogspot.com/) — mas alterei alguns termos também.
 
-## Player’s Guide
+## Guia do Jogador
 
 - [Criação de Personagem](character-creation.md)
 - [Regras Básicas](core-rules.md)
