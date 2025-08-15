@@ -9,15 +9,14 @@ grand_parent: Second Edition
 
 ## Role ou escolha um Antecedente
 
-- Primeiro, role ou escolha da tabela de [Antecedentes](#antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
-- Escolha um nome da lista disponível e registre cada um dos itens iniciais do seu personagem Veja [Inventário](#inventário) e [Espaços de Inventário](#espaços-de-inventário) para saber como registrar os itens. 
-- Role em cada uma das tabelas incluídas em Antecedente. Registre os itens, perícias ou habilidades do seu personagem em cada resultado. Alguns antecedentes podem pedir que você consulte também as tabelas do [Mercado](/second-edition/players-guide/marketplace).
+- Primeiro, role ou escolha da tabela de [Antecedentes](#Antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
+- Escolha um nome da lista disponível e registre cada um dos itens iniciais do seu personagem Veja [Inventário](#Inventário) e [Espaços de Inventário](#Espaços-de-Inventário) para saber como registrar os itens. 
+- Role em cada uma das tabelas incluídas em Antecedente. Registre os itens, perícias ou habilidades do seu personagem em cada resultado. Alguns antecedentes podem pedir que você consulte também as tabelas do [Mercado](players-guide/Mercado.md).
 
 ## Antecedentes
 
-|||||
-|---|---|---|---|
 |**d20**|**Antecedente**|||
+|---|---|---|---|
 |**1**|[Aurifex](/second-edition/backgrounds/aurifex)|**11**|[Meia-Bruxa](/second-edition/backgrounds/half-witch)|
 |**2**|[Barbeiro-Cirurgião](/second-edition/backgrounds/barber-surgeon)|**12**|[Caça-Feiticeiros](/second-edition/backgrounds/hexenbane)|
 |**3**|[Domador de Bestas](/second-edition/backgrounds/beast-handler)|**13**|[Jogral](/second-edition/backgrounds/jongleur/)|
@@ -43,8 +42,8 @@ Um Personagem Jogador tem apenas três Atributos: **Força (FOR)**, **Destreza (
 
 Pontos de Guarda
 
-- Role 1d6 para determinar a **Proteção contra Golpes** (PG) inicial do seu PJ, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem ele a perde por muito tempo. Veja [Cura & Recuperação](/second-edition/players-guide/core-rules#healing--recovery) 
-- Se um ataque levar a PG de um PJ exatamente a 0, o jogador deve rolar na tabela de [**Cicatrizes**](/second-edition/players-guide/core-rules#scars).
+- Role 1d6 para determinar a **Pontos de Guarda** (PG) inicial do seu PJ, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem ele a perde por muito tempo. Veja [Cura & Recuperação](players-guide/core-rules.md#Cura-&-Recuperação) 
+- Se um ataque levar a PG de um PJ exatamente a 0, o jogador deve rolar na tabela de [**Cicatrizes**](players-guide/core-rules.md#Cicatrizes).
 
 ## Inventário
 
