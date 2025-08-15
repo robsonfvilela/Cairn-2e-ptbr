@@ -11,7 +11,7 @@ grand_parent: Second Edition
 
 - Primeiro, role ou escolha da tabela de [Antecedentes](#Antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
 - Escolha um nome da lista disponível e registre cada um dos itens iniciais do seu personagem Veja [Inventário](#Inventário) e [Espaços de Inventário](#Espaços-de-Inventário) para saber como registrar os itens. 
-- Role em cada uma das tabelas incluídas em Antecedente. Registre os itens, perícias ou habilidades do seu personagem em cada resultado. Alguns antecedentes podem pedir que você consulte também as tabelas do [Mercado](Mercado.md).
+- Role em cada uma das tabelas incluídas em Antecedente. Registre os itens, perícias ou habilidades do seu personagem em cada resultado. Alguns antecedentes podem pedir que você consulte também as tabelas do [Mercado](marketplace.md).
 
 ## Antecedentes
 
