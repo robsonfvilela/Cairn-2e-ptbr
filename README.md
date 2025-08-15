@@ -6,15 +6,16 @@
 
 ## Guia do Jogador
 
-- [Criação de Personagem](character-creation.md)
-- [Regras Básicas](core-rules.md)
-- [Mercado](marketplace.md)
-- [Visão Geral & Princípios](overview-and-principles.md)
-- [Procedimentos](procedures.md)
-- [Vald](vald.md)
+- [Criação de Personagem](players-guide/character-creation.md)
+- [Regras Básicas](players-guide/core-rules.md)
+- [Mercado](players-guide/marketplace.md)
+- [Visão Geral & Princípios](players-guide/overview-and-principles.md)
+- [Procedimentos](players-guide/procedures.md)
+- [Vald](players-guide/vald.md)
 
 ## Changelog
 
 **2025-08-14:**
 - Primeira versão da tradução do _Guia do Jogador_.
-- Nenhuma revisão foi feita ainda.
+- Primeira revisão do capítulo [Regras Básicas](players-guide/core-rules.md).
+- Primeira revisão do capítulo [Vald](players-guide/vald.md).
