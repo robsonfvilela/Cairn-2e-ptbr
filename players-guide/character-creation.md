@@ -8,7 +8,7 @@
 
 ## Antecedentes
 
-|**d20**|**Antecedente**|||
+|**d20**|**Antecedente**|**d20**|**Antecedente**|
 |---|---|---|---|
 |**1**|[Aurifex](backgrounds/aurifex.md)|**11**|[Meia-Bruxa](backgrounds/half-witch.md)|
 |**2**|[Barbeiro-Cirurgião](backgrounds/barber-surgeon.md)|**12**|[Caçador de Bruxas](backgrounds/hexenbane.md)|
@@ -134,7 +134,7 @@ Pontos de Guarda
 
 ## Vínculos
 
-|**D20**|**Laço**|
+|**D20**|**Vínculo**|
 |---|---|
 |**1**|Você herdou uma **Única Gema** (500 PO, fria e quebradiça) de um parente há muito falecido. Ela veio acompanhada de um aviso: se desperdiçar sua nova fortuna, uma dívida há muito esquecida será cobrada.                                                                                       |**2**|Um primo distante lhe deixou uma pequena herança. Receba **20 PO** e uma **Bússola Estranha** (_pequena_) que sempre aponta para algo nas profundezas da Mata.                                                                                                                              |**3**|Você carrega um **Retrato** num medalhão (_pequeno_) de um antigo amor que desapareceu na Mata há muito tempo. De alguma forma, você sabe que essa pessoa ainda está viva.                                                                                                                                    |**4**|Você encontrou um **Pequeno Prisma de Cristal** (_pequeno_) enterrado na terra. Quando segurando contra a luz, ele mostra visões de um local desconhecido nas profundezas da Mata. Às vezes, você sente uma presença olhando de volta.                                                                         |
 |**5**|Certa vez, você libertou uma Náyade de um riacho sufocado. Em troca, ela lhe deu **Musgo Prateado** (_pequeno_).. Engula-o próximo à água, e a criatura virá, uma vez, para saldar sua dívida.                                                                                                                    |
