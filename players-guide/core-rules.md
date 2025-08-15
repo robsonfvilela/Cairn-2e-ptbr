@@ -58,7 +58,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 - Grupos de aventureiros podem recrutar mercenários, confiando em suas habilidades, conhecimento e treinamento únicos para ajudar em expedições.  
 - Para criar um mercenário, escolha uma função apropriada na tabela de [Contratados](players-guide/marketplace.md#Contratados-(por-dia)) no Mercado.
  Role 3d6 para cada atributo e 1d6 para seus PG. Dê a eles **equipamentos** apropriados para sua posição e, em seguida, role nas tabelas de Características de Personagem para desenvolvê-los melhor.
-- Alternativamente, escolha um [**antecedente**](players-guide/character-creation.md#Antecedentes) e um **nome** apropriados no guia de [Criação de Personagem](players-guide/character-creation.md).
+- Alternativamente, escolha um [**antecedente**](character-creation.md#Antecedentes) e um **nome** apropriados no guia de [Criação de Personagem](character-creation.md).
  Role (ou escolha entre) as tabelas para o antecedente escolhido. Depois role para Rações, Peças de Ouro, Atributos, PG e idade. 
 
 ## Dado de Sorte  
