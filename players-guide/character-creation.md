@@ -1,10 +1,3 @@
----
-layout: default
-title: Character Creation
-parent: Player's Guide
-grand_parent: Second Edition
----
-
 # Criação de Personagem 
 
 ## Role ou escolha um Antecedente
@@ -17,16 +10,16 @@ grand_parent: Second Edition
 
 |**d20**|**Antecedente**|||
 |---|---|---|---|
-|**1**|[Aurifex](/second-edition/backgrounds/aurifex)|**11**|[Meia-Bruxa](/second-edition/backgrounds/half-witch)|
-|**2**|[Barbeiro-Cirurgião](/second-edition/backgrounds/barber-surgeon)|**12**|[Caça-Feiticeiros](/second-edition/backgrounds/hexenbane)|
-|**3**|[Domador de Bestas](/second-edition/backgrounds/beast-handler)|**13**|[Jogral](/second-edition/backgrounds/jongleur/)|
-|**4**|[Guardião dos Ossos](/second-edition/backgrounds/bonekeeper/)|**14**|[Caldeireiro](/second-edition/backgrounds/kettlewright)|
-|**5**|[Batedor de Bolsos](/second-edition/backgrounds/cutpurse)|**15**|[Guarda da Fronteira](/second-edition/backgrounds/marchguard/)|
-|**6**|[Guarda de Campo](/second-edition/backgrounds/fieldwarden/)|**16**|[Charlatão](/second-edition/backgrounds/mountebank)|
-|**7**|[Fabricante de Flechas](/second-edition/backgrounds/fletchwind)|**17**|[Batedor Montado](/second-edition/backgrounds/outrider)|
-|**8**|[Enjeitado](/second-edition/backgrounds/foundling)|**18**|[Predador](/second-edition/backgrounds/prowler)|
-|**9**|[Forrageiro de Fungos](/second-edition/backgrounds/fungal-forager)|**19**|[Corredor do Riacho](/second-edition/backgrounds/rill-runner)|
-|**10**|[Sábio das Ervas](/second-edition/backgrounds/greenwise/)|**20**|[Escriba](/second-edition/backgrounds/scrivener)|
+|**1**|[Aurifex](backgrounds/aurifex.md)|**11**|[Meia-Bruxa](backgrounds/half-witch.md)|
+|**2**|[Barbeiro-Cirurgião](backgrounds/barber-surgeon.md)|**12**|[Caçador de Bruxas](backgrounds/hexenbane.md)|
+|**3**|[Domador de Feras](backgrounds/beast-handler.md)|**13**|[Trovador](backgrounds/jongleur.md)|
+|**4**|[Guardião dos Ossos](backgrounds/bonekeeper.md)|**14**|[Caldeireiro](backgrounds/kettlewright.md)|
+|**5**|[Batedor de Bolsos](backgrounds/cutpurse.md)|**15**|[Patrulheiro de Fronteira](backgrounds/marchguard.md)|
+|**6**|[Patrulheiro dos Campos](backgrounds/fieldwarden.md)|**16**|[Charlatão](backgrounds/mountebank.md)|
+|**7**|[Flecheiro dos Ventos](backgrounds/fletchwind.md)|**17**|[Batedor Montado](backgrounds/outrider.md)|
+|**8**|[Enjeitado](backgrounds/foundling.md)|**18**|[Vigilante](backgrounds/prowler.md)|
+|**9**|[Coletor de Fungos](backgrounds/fungal-forager.md)|**19**|[Corredor do Riacho](backgrounds/rill-runner.md)|
+|**10**|[Sábio das Ervas](backgrounds/greenwise.md)|**20**|[Escriba](backgrounds/scrivener.md)|
 
 ## Atributos, Pontos de Guarda e Características 
 
@@ -61,7 +54,7 @@ Pontos de Guarda
 
 ### Físico
 
-|  |  |  |  |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | 1 | Alto | 6 | Esguio |
 | 2 | Atlético | 7 | Flácido |
@@ -71,7 +64,7 @@ Pontos de Guarda
 
 ### Pele
 
-| | | | |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | **1** | Marca de nascença | **6** | Macia |
 | **2** | Marcada | **7** | Bronzeada |
@@ -81,7 +74,7 @@ Pontos de Guarda
 
 ### Cabelo
 
-|  |  |  |  |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | 1 | Cacheado | 6 | Oleoso |
 | 2 | Careca | 7 | Ondulado |
@@ -91,7 +84,7 @@ Pontos de Guarda
 
 ### Rosto
 
-|  |  |  |  |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | 1 | Alongado | 6 | Perfeito |
 | 2 | Encovado | 7 | Pálido |
@@ -101,7 +94,7 @@ Pontos de Guarda
 
 ### Fala
 
-|  |  |  |  |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | 1 | Direta | 6 | Grave |
 | 2 | Enigmática | 7 | Precisa |
@@ -111,7 +104,7 @@ Pontos de Guarda
 
 ### Roupas
 
-|  |  |  |  |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | 1 | Antiquadas | 6 | Ensanguentadas |
 | 2 | Desalinhadas | 7 | Estranhas |
@@ -121,7 +114,7 @@ Pontos de Guarda
 
 ### VIrtude
 
-|  |  |  |  |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | 1 | Ambicioso | 6 | Humilde |
 | 2 | Cauteloso | 7 | Piedoso |
@@ -131,7 +124,7 @@ Pontos de Guarda
 
 ### Vício
 
-|  |  |  |  |
+| d10 | Característica | d10 |  Característica|
 | --- | --- | --- | --- |
 | 1 | Agressivo | 6 | Preguiçoso |
 | 2 | Amargurado | 7 | Rude |
@@ -141,9 +134,8 @@ Pontos de Guarda
 
 ## Vínculos
 
-|||
-|---|---|
 |**D20**|**Laço**|
+|---|---|
 |**1**|Você herdou uma **Única Gema** (500 PO, fria e quebradiça) de um parente há muito falecido. Ela veio acompanhada de um aviso: se desperdiçar sua nova fortuna, uma dívida há muito esquecida será cobrada.                                                                                       |**2**|Um primo distante lhe deixou uma pequena herança. Receba **20 PO** e uma **Bússola Estranha** (_pequena_) que sempre aponta para algo nas profundezas da Mata.                                                                                                                              |**3**|Você carrega um **Retrato** num medalhão (_pequeno_) de um antigo amor que desapareceu na Mata há muito tempo. De alguma forma, você sabe que essa pessoa ainda está viva.                                                                                                                                    |**4**|Você encontrou um **Pequeno Prisma de Cristal** (_pequeno_) enterrado na terra. Quando segurando contra a luz, ele mostra visões de um local desconhecido nas profundezas da Mata. Às vezes, você sente uma presença olhando de volta.                                                                         |
 |**5**|Certa vez, você libertou uma Náyade de um riacho sufocado. Em troca, ela lhe deu **Musgo Prateado** (_pequeno_).. Engula-o próximo à água, e a criatura virá, uma vez, para saldar sua dívida.                                                                                                                    |
 |**6**|Você herdou um velho **Diário**, encadernado em casca de árvore. Todas as noites, suas páginas se preenchem com os eventos do dia, escritos grosseiramente sob a perspectiva do próprio diário. A escrita é rude, mas precisa.                                                                                       |
@@ -165,9 +157,8 @@ Pontos de Guarda
 
 ## Presságios
 
-| | |
-| --- | --- |
 | **d20** | **Presságio** |
+| --- | --- |
 |**1**|As outrora ricas águas de um rio vital tornaram-se negras e fétidas, contaminando a terra e adoecendo quem delas bebe. Um ancião da aldeia aponta uma recente profanação como causa, mas a maioria ignora suas palavras.               |
 |**2**|Parece que o inverno chegou cedo demais este ano, com geadas e neves aparecendo muito antes do esperado. Há quem fale sobre um padrão no gelo encontrado em janelas, lagoas e rachaduras no solo. Quase parece um mapa. |
 |**3**|Uma névoa espessa e antinatural começou a invadir um bosque antigo e sagrado. Dizem ser obra de um grande espírito da floresta, enfurecido pelo desmatamento próximo.                                                                                  |
