@@ -25,3 +25,10 @@
 
 **2025-08-18:**
 - As 3 primeiras ancestralidades foram disponibilizadas: [Ourives](backgrounds/aurifex.md), [Barbeiro-Cirurgião](backgrounds/barber-surgeon.md) e [Domador de Feras](backgrounds/beast-handler.md).
+
+
+---
+
+## Aviso:
+
+> Todo o conteúdo deste repositório está disponibilizado sob a licença [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br).
