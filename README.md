@@ -22,5 +22,6 @@
 - Primeira versão da tradução do _Guia do Jogador_.
 - Primeira revisão do capítulo [Regras Básicas](players-guide/core-rules.md).
 - Primeira revisão do capítulo [Vald](players-guide/vald.md).
+
 **2025-08-18:**
 - As 3 primeiras ancestralidades foram disponibilizadas: [Ourives](backgrounds/aurifex.md), [Barbeiro-Cirurgião](backgrounds/barber-surgeon.md) e [Domador de Feras](backgrounds/beast-handler.md).
