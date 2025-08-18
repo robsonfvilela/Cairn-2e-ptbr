@@ -1,40 +1,35 @@
----
-title: Fletchwind
-layout: default
-parent: Backgrounds
-grand_parent: Second Edition
----
+ 
 
-# Fletchwind
+# Flecheiro dos Ventos [Fletchwind]
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> Você ataca de longe, mas isso não faz de você um covarde. Você é um músico, a canção da sua corda de arco nada mais é que um aviso, cantando a promessa silenciosa de uma morte rápida. 
 
-## Names
+## Nomes
 
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- 3d6 Peças de Ouro  
+- Rações (3 usos)  
+- Tocha (3 usos)  
+- Arco (veja a tabela)  
+- Faca Serrilhada (d6)  
+- Couro Endurecido (1 Armadura)  
+- Bálsamo de Raiz-Coração (restaura 1d4 FOR, 1 uso)  
 
-## How did you earn your bow? Roll 1d6:
+## Como você aprendeu a usar seu arco? Role 1d6:
 
-|       |                                                                                                                                                                                                             |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| 1d6   | Descrição                                                                                                                                | 
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Na Guerra**. Se você for o primeiro a atacar, seu arco ganha a propriedade de _explosão_ no primeiro turno.                                                                                                               |
+| **2** | **Praticando Falcoaria**. Você mantém um falcão [3 PG, 5 FOR, 16 DES, 4 VON, garras (d6+d6), mordida (d8)]. Ele só se alimenta de presas vivas.                                                                                             |
+| **3** | **Caçando**. Ao realizar a ação de Suprimento, sua capacidade de obter **Rações** aumenta em **um passo** (ex.: 1d4 torna-se 1d6).          |
+| **4** | **Em Torneios**. Ataques com seu arco têm _vantagem_ se o alvo estiver imóvel.                                                                                                                            |
+| **5** | **Treinando**. Se você for o primeiro a atacar, ataques corpo a corpo contra você ficam com _Desvantagem_ até que você sofra dano de FOR.                                                                                           |
+| **6** | **Explorando**. Ao realizar a ação de Viagem, sua presença reduz em um passo a chance de se perder (ex.: 4-em-6 torna-se 3-em-6). |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## What kind of wood is your bow made from? Role 1d6:
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |

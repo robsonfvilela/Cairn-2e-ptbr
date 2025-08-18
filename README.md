@@ -25,7 +25,9 @@
 
 **2025-08-18:**
 - As 3 primeiras ancestralidades foram disponibilizadas: [Ourives](backgrounds/aurifex.md), [Barbeiro-Cirurgião](backgrounds/barber-surgeon.md) e [Domador de Feras](backgrounds/beast-handler.md).
-- Ataualização geral: O termo **itens _pquenos_** foi substituído por **_miudeza_**.
+- Ataualização de termo: **itens _pquenos_** > **_miudeza_**.
+- Ataualização de termo: **Aprimorado** > **Vantagem**.
+- Ataualização de termo: **Prejudicado** > **Desvantagem**.
 
 
 ---

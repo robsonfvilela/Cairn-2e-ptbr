@@ -85,8 +85,8 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Modificadores de Ataque
 
-- Se estiver lutando em uma posição desvantajosa (como atrás de cobertura ou com as mãos amarradas), o ataque é _Prejudicado_ e o atacante deve rolar 1d4 de dano independentemente de qual seja dado de dano de ataque. Ataques desarmados sempre causam 1d4 de dano.
-Se estiver lutando em uma posição vantajosa (como contra um inimigo indefeso ou por meio de uma manobra ousada), o ataque é _Aprimorado_, permitindo ao atacante rolar 1d12 de dano em vez de seu dado normal.
+- Se estiver lutando em uma posição desvantajosa (como atrás de cobertura ou com as mãos amarradas), o ataque tem _Desvantagem_ e o atacante deve rolar 1d4 de dano independentemente de qual seja dado de dano de ataque. Ataques desarmados sempre causam 1d4 de dano.
+- Se estiver lutando em uma posição vantajosa (como contra um inimigo indefeso ou por meio de uma manobra ousada), o ataque tem _Vantagem_, permitindo ao atacante rolar 1d12 de dano em vez de seu dado normal.
 
 
 - Ataques com a qualidade _Explosivo_ afetam todos os alvos na área indicada, rolando separadamente para cada personagem afetado.
@@ -111,7 +111,7 @@ Se estiver lutando em uma posição vantajosa (como contra um inimigo indefeso o
 ### Destacamentos
 
 - Grandes grupos de combatentes semelhantes lutando juntos são tratados como um único _Destacamento_. Quando um _destacamento_ sofre **Dano Crítico**, ele é dispersado ou significativamente enfraquecido. Quando a FOR dele chega a 0, o destacamento é destruído.
-- Quando um indivíduo faz um ataque contra um destacamento, este ataque é _prejudicado_ (exceto danos de _explosão_). Quando um destacamento faz um ataque contra indivíduos, este ataque é _aprimorado_ e causam dano de _explosão_.
+- Quando um indivíduo faz um ataque contra um destacamento, este ataque tem _Desvantagem_ (exceto danos de _explosão_). Quando um destacamento faz um ataque contra indivíduos, este ataque tem _Vantagem_ e causa dano de _explosão_.
 
 ### Retirada
 
@@ -119,7 +119,7 @@ Se estiver lutando em uma posição vantajosa (como contra um inimigo indefeso o
 
 ### Ataques a Distância
 
-- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Ataques contra alvos especialmente distantes são _Prejudicados_.
+- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Ataques contra alvos especialmente distantes têm _Desvantagem_.
 - A munição não é contabilizada, a menos que especificado de outra forma. 
 
 ## Cicatrizes
@@ -154,7 +154,7 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 ### Conjuração de Magias
 
 - Qualquer pessoa pode conjurar uma magia segurando um grimório com as duas mãos e lendo seu conteúdo em voz alta.  Depois disso, deve adicionar **Fadiga** ao inventário. 
-- Com tempo e segurança, os personagens podem _aprimorar_ o efeito de uma magia (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
+- Com tempo e segurança, os personagens podem _aprimorar_ (e ter Vantagem) o efeito de uma magia (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
 - Se o personagem estiverem _Privados_ ou em perigo (como em combate), o Guardião pode exigir uma salvaguarda de VON para evitar efeitos colaterais ao conjurar. As consequências da falha são proporcionais ao efeito pretendido e podem incluir Fadiga adicional, destruição do grimório, ferimentos ou até morte.
 
 ### Pergaminhos

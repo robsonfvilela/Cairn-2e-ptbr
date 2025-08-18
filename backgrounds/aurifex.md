@@ -15,7 +15,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 - Lanterna
 - Lata de Óleo (6 usos)
 - Faca-agulha (d6)
-- Luvas Protetoras (_pequeno_)
+- Luvas Protetoras (_miudeza_)
 
 ### O que deu terrivelmente errado? Role 1d6:
 

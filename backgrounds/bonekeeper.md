@@ -1,43 +1,42 @@
  
 
-# Batedor de Carteiras [Cutpurse]
+# Bonekeeper
 
-Você vive no espaço cinzento entre aqueles que têm poder e aqueles que não têm. Encontra oportunidade onde outros veem apenas caos. Com dedos ágeis, alivia tanto o mais rico comerciante quanto o mais humilde guarda. 
+> You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well. 
 
 ## Nomes
 
-Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
+Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 
 ## Equipamento Inicial
- 
+
 - 3d6 Peças de Ouro  
 - Rações (3 usos)  
-- Tocha (3 usos)  
-- Adagas Gêmeas (d6+d6, _volumosas_)  
-- Couro Almofadado (1 Armadura)  
-- Gazuas  
-- Roupas Negras (_pequeno_)  
+- Lanterna  
+- Lata de Óleo (6 usos)  
+- Estaca (d6)  
+- Correntes (3m)  
 
-## Qual foi seu último grande trabalho? Role 1d6:
+## O que você levou dos mortos? Role 1d6:
 
-| 1d6   | Trabalho                                                                                                                                                                                                    | 
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A casa de verão de um nobre. O lugar estava cheio de vinhos finos (+20 PO), mas não muito mais. Você tem **Cortadores de Cerca**.                                                                                        |
-| **2** | Um banco. (Você foi pego.) Carrega uma marca visível apenas sob a luz do fogo, e qualquer um que veja o símbolo pode pedir que você pague uma bebida. Você tem **Fios Retráteis**.                                           |
-| **3** | Um armazém de guilda. Você tem uma **Escada** (_volumosa_, 3m) e **Pó Cegante** (1 uso).                                                                                                             |
-| **4** | Um agiota. Alguém chegou antes de você, mas deixou para trás um **Pergaminho** de _Olho Arcano_ (_miudeza_).  _Olho Arcano_: você pode enxergar através de um olho mágico flutuante que voa sob seu comando. |
-| **5** | Os aposentos do delegado.  Você escapou, mas deixou alguns amigos para trás. Você tem uma **Corda de Seda Reforçada** (9m) e um sentimento de culpa persistente.                                                                           |
-| **6** | Uma universidade. Você foi visto, mas não perseguido. Até hoje não sabe por quê. Você tem **Pelotas de Fumaça** (3 usos).                                                                                      |                                                                                          |
+| 1d6   | Item                                                                                                                                                                                                                                                                                                                                                                         | 
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Um **amuleto em forma de corvo**. Você pode fazer uma pergunta aos mortos, mas deve adicionar 1 **Fadiga** a cada vez. Eles nem sempre falam a verdade.                                                                                                                                                                                              |
+| **2** | Um **ferimento mortal** causado por um _revenante_ liberto.
+ Você foi curado, mas a desfiguração o tornou um pária. Não precisa de ar ou sustento, mas ainda sente dor e pode morrer. Preso entre mundos, os mortos o veem como um dos seus.                                                                               |
+| **3** | Um **Balde de Sangue** (_volumoso_) de um culto da morte local. Esvazie-o para erguer um servo feito do que estiver enterrado abaixo, com 6 PG, 1 Armadura, 13 FOR, 11 DES, 4 VON, e punhos de fragmentos (d8+d8). Apenas um servo pode estar ativo por vez. Se destruído, você perde permanentemente 1d4 FOR. **Recarga**: encha-o com o sangue de um guerreiro moribundo. |
+| **4** | Um **carro funerário** (+6 espaços, _lento_) de seu último trabalho. Ele veio com um teimoso **burro** velho (+4 espaços, apenas +2 se puxando o carro).                                                                                                                                                                                         |
+| **5** | O **Grimório Detectar Magia**, roubado de uma biblioteca antiga. Sua família servia a uma obscura divindade do submundo, mas você perdeu a fé. Embora exilado, continua a servir, mesmo como apóstata. Detectar Magia: você pode ver ou ouvir auras mágicas próximas. _Fica morno ao toque quando a magia é usada por perto._|
+| **6** | Uma **máscara de médico da peste**, cujo dono sucumbiu à doença que dizimou todos que você conhecia. Ele deveria ter mantido a máscara.                                                                                                                                                                                             |
 
-## O que ajuda você nos roubos? Role 1d6:
+Qual ferramenta foi indispensável ao seu trabalho? Role 1d6:
 
-| 1d6   | Item                | Descrição                                                                                                                                                       | 
-| ----- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Anel Felino**         | 2 cargas. Permite escalar paredes e cair em segurança. **Recarga**: Coloque o anel na cauda de um gato de rua.                                                     |
-| **2** | **Dedo Dourado**    | 1 carga. Uma luva de dedo que imita qualquer chave mundana. **Recarga**: Deixe-o guardado com pelo menos 100 PO por uma noite.                                     |
-| **3** | **Vidro Vislumbre** | 3 usos. Um monóculo que permite enxergar através de paredes ou obstruções. Ele se estilhaça após o último uso.                                        |
-| **4** | **Assobio Doce**    | 1 carga. Os ouvintes escutam uma voz suave e familiar à distância que não conseguem resistir a seguir. **Recarga**: Perca uma memória querida. (Descreva-a.) |
-| **5** | **Véu do Errante**  | 1 carga. Use-o para se misturar perfeitamente em multidões, parecendo apenas um simples mendigo. **Recarga**: Doe os ganhos do dia aos pobres. _Miudeza_     |
-| **6** | **Pião Reverso**    | 1 uso. Ao ser girado, o tempo retrocede 30 segundos. Todos se lembram do que aconteceu.                                                                                    |
-
+|     |                 |                                                                                                                             |
+| --- | --------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Algemas**     | Embora antigas, ainda funcionam até mesmo contra os muito fortes. Você não tem a chave.                                      |
+| 2   | **Esponja**     | Supostamente feita dos restos de uma rara criatura marinha. ta dos restos de uma rara criatura marinha. Parece nunca secar.                                        |
+| 3   | **Polia**       | Ótima para mover lápides, pedras ou até mesmo corpos.                                                                       |
+| 4   | **Incenso**     | Perfeito para rituais ou para afastar as moscas. Refresca o sangue.                                                         |
+| 5   | **Pé de Cabra** | Causa d6 de dano. Às vezes você só precisa abrir aquela maldita coisa à força!                                                             |
+| 6   | **Repelente**   | Substância poderosa. Seu rótulo desbotado torna incerto o que realmente deve repelir. Talvez tudo. 3 usos. |
 
