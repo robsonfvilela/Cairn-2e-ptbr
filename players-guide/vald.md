@@ -12,17 +12,17 @@ Trilhas estabelecidas entre os povoados maiores são relativamente comuns, enqua
 
 Mesmo a menor vila pode receber visitantes eruditos vindos das cidades: um **Escrivão**, **Ourives** ou **Herbologista** com interesse em tumbas, túmulos e Portões próximos. Frequentemente, um **Guardião de Ossos** ou **Coletor de Fungos** é contratado por sua experiência, enquanto aventureiros astutos garantem que um **Cirurgião-Barbeiro** esteja sempre por perto — ou um **Batedor de Carteiras**, caso haja negócios menos honrosos a tratar. Claro que **Charlatães** e **Trovadores** costumam acompanhar esse tipo de comitiva, aproveitando-se da fama alheia na esperança de também colher os frutos da próxima grande descoberta.
 
-Quem entra na **Floresta** costuma contratar um guia familiarizado com o território, como um **Vigilante** ou **Flecheiro dos Ventos**, enquanto viajantes realmente determinados buscam a sabedoria de uma **Meia-Bruxa** ou de um **Abandonado** com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o **Patrulheiro de Fronteira** trabalha para manter o reino livre de influências externas, enquanto os **Caçador de Bruxas** procuram protegê-lo de ameaças internas.
+Quem entra no **Bosque** costuma contratar um guia familiarizado com o território, como um **Vigilante** ou **Flecheiro dos Ventos**, enquanto viajantes realmente determinados buscam a sabedoria de uma **Meia-Bruxa** ou de um **Abandonado** com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o **Patrulheiro de Fronteira** trabalha para manter o reino livre de influências externas, enquanto os **Caçador de Bruxas** procuram protegê-lo de ameaças internas.
 
-## A Floresta
+## O Bosque
 
-A **Floresta** circunda e divide o reino, representando não apenas uma, mas _todas_ as florestas. Seus habitantes são ferozmente independentes, acreditando estarem sujeitos apenas às regras dela. Seus diversos povos, criaturas e elementos naturais implacáveis mantiveram o mundo exterior afastado desde tempos imemoriais. 
+O **Bosque** circunda e divide o reino, representando não apenas uma, mas _todas_ as florestas. Seus habitantes são ferozmente independentes, acreditando estarem sujeitos apenas às regras dela. Seus diversos povos, criaturas e elementos naturais implacáveis mantiveram o mundo exterior afastado desde tempos imemoriais. 
 
 No coração de cada floresta há uma **Árvore-Mãe**, local onde a floresta é ao mesmo tempo mais poderosa e mais perigosa. Cada Árvore-Mãe nasce de uma única **Semente-Mãe**, obtida exclusivamente de uma Mãe moribunda ou morta. 
 
-A Floresta é habitada por criaturas estranhas e maravilhosas, como Goblins, Espíritos, Ents, Trolls, Lobisomens, Bruxas e até plantas e animais falantes. A maioria é abertamente hostil a forasteiros (especialmente humanos), mas alguns — em ocasiões raras — aceitam negociar com aqueles que mostram respeito pela Floresta. Todos, no entanto, demonstram reverência absoluta pelas Fadas (às vezes chamadas de **Povo Pálido** ou **Vizinhas**).
+O Bosque é habitado por criaturas estranhas e maravilhosas, como Goblins, Espíritos, Ents, Trolls, Lobisomens, Bruxas e até plantas e animais falantes. A maioria é abertamente hostil a forasteiros (especialmente humanos), mas alguns — em ocasiões raras — aceitam negociar com aqueles que mostram respeito pelo Bosque. Todos, no entanto, demonstram reverência absoluta pelas Fadas (às vezes chamadas de **Povo Pálido** ou **Vizinhas**).
 
-Isso não significa que a Floresta esteja desabitada. Aqueles que conseguem sobreviver (ou até prosperar) em tais lugares aprendem a viver segundo suas regras, pois quem as ignora ou as enfrenta de forma imprudente normalmente encontra um fim brutal. 
+Isso não significa que o Bosque esteja desabitado. Aqueles que conseguem sobreviver (ou até prosperar) em tais lugares aprendem a viver segundo suas regras, pois quem as ignora ou as enfrenta de forma imprudente normalmente encontra um fim brutal. 
 
 ## As Raízes
 

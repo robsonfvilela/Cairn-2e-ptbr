@@ -28,10 +28,11 @@
 - Ataualização de termo: **itens _pquenos_** > **_miudeza_**.
 - Ataualização de termo: **Aprimorado** > **Vantagem**.
 - Ataualização de termo: **Prejudicado** > **Desvantagem**.
-
+- Ataualização de termo: **Wood** > **Bosque**.
+- Novas ancestralidades adicionaidas — Até Herbologista/Greenwise —, mas sem nenhuma revisão ainda.
 
 ---
 
-## Aviso:
+## Aviso Legal:
 
 > Todo o conteúdo deste repositório está disponibilizado sob a licença [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br).

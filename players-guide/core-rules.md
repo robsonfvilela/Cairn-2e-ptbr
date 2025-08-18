@@ -16,7 +16,7 @@ Cada um dos três **Atributos** é usado em circunstâncias diferentes. (veja *
 - Se dois oponentes estiverem tentando superar um ao outro, aquele que estiver correndo mais risco deve fazer o teste.
 - Se dois personagens precisarem realizar uma ação juntos, quem estiver correndo mais risco deve fazer o teste (geralmente o personagem com o menor Atributo relevante).
 
-## Cura e Recuperação
+## Cura & Recuperação
 
 - Descansar por alguns momentos e beber água restaura os PG perdidos, mas pode deixar o grupo exposto. Bandagens podem estabilizar um personagem que sofreu dano crítico.
 - A perda de atributos (veja **Dano Crítico**) pode ser recuperada geralmente com uma semana de descanso, com auxílio de um curandeiro ou por outra fonte apropriada de conhecimento especializado. 

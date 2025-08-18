@@ -29,13 +29,13 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 | **5** | **Treinando**. Se você for o primeiro a atacar, ataques corpo a corpo contra você ficam com _Desvantagem_ até que você sofra dano de FOR.                                                                                           |
 | **6** | **Explorando**. Ao realizar a ação de Viagem, sua presença reduz em um passo a chance de se perder (ex.: 4-em-6 torna-se 3-em-6). |
 
-## What kind of wood is your bow made from? Role 1d6:
+## De que madeira seu arco é feito? Role 1d6:
 
-|       |                                                                                                          |
-| ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| 1d6   | Madeira                                                                                                                 | 
+| ----- | ----------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Teixo Ocidental** (d6, _volumoso_). Pode ser usado como arma contundente (d6). Barulhento.                             |
+| **2** | **Carvalho Branco** (d8, _volumoso_). Impacta os alvos com força. Com **Dano Crítico**, algo é arrancado.         |
+| **3** | **Pinheiro-de-Pedra** (d6, _volumoso_). Produz uma porção de **Seiva Pegajosa** por dia. A seiva é altamente explosiva.   |
+| **4** | **Freixo Branco** (d6, _volumoso_). Pode ser usado como escudo em combate corpo a corpo (+1 Armadura).                |
+| **5** | **Bambu Listrado** (d6). Dobrável, ocupa apenas um espaço (mas ainda exige ambas as mãos).         |
+| **6** | **Olmo Comum** (d6, _volumoso_).  Protege o portador contra venenos e toxinas, desde que esteja empunhando-o. |

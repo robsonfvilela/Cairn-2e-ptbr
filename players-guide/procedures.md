@@ -269,7 +269,7 @@ Uma **Fonte** é uma pessoa, lugar, facção ou entidade que possui parte ou tod
 
 - **Kewr, o Boca**, contato frequente da **Conclave dos Mercadores**. Apesar da excelente relação com essa facção, pedir ajuda em uma atividade ilícita pode ter um custo alto.
 - Um **Woodwose** que vive no fundo da **Floresta das Facas**. O grupo o encontrou em uma expedição anterior, e o encontro não terminou bem. Ainda assim, dizem que ele conhece a natureza de todas as ervas e suas propriedades curativas.
-- O **Templo dos Fantoches**, uma trupe de circo nômade que percorreu terras conhecidas e desconhecidas. O grupo ajudou um de seus membros durante a **Chuva de Fogo**, quando até as criaturas da Floresta se preparavam para abandonar suas casas. Se alguém ouviu falar de lugares esquecidos, são eles.
+- O **Templo dos Fantoches**, uma trupe de circo nômade que percorreu terras conhecidas e desconhecidas. O grupo ajudou um de seus membros durante a **Chuva de Fogo**, quando até as criaturas do Bosque se preparavam para abandonar suas casas. Se alguém ouviu falar de lugares esquecidos, são eles.
 
 ### Treinamento
 
