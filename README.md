@@ -25,10 +25,10 @@
 
 **2025-08-18:**
 - As 3 primeiras ancestralidades foram disponibilizadas: [Ourives](backgrounds/aurifex.md), [Barbeiro-Cirurgião](backgrounds/barber-surgeon.md) e [Domador de Feras](backgrounds/beast-handler.md).
-- Ataualização de termo: **itens _pquenos_** > **_miudeza_**.
-- Ataualização de termo: **Aprimorado** > **Vantagem**.
-- Ataualização de termo: **Prejudicado** > **Desvantagem**.
-- Ataualização de termo: **Wood** > **Bosque**.
+- Atualização de termo: **itens _pquenos_** > **_miudeza_**.
+- Atualização de termo: **Aprimorado** > **Vantagem**.
+- Atualização de termo: **Prejudicado** > **Desvantagem**.
+- Atualização de termo: **Wood** > **Bosque**.
 - Novas ancestralidades adicionaidas — Até Herbologista/Greenwise —, mas sem nenhuma revisão ainda.
 
 ---
