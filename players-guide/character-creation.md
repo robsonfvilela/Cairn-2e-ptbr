@@ -10,16 +10,16 @@
 
 |**d20**|**Antecedente**|**d20**|**Antecedente**|
 |---|---|---|---|
-|**1**|[Ourives](../backgrounds/aurifex.md)|**11**|[Meia-Bruxa](backgrounds/half-witch.md)|
-|**2**|[Barbeiro-Cirurgião](backgrounds/barber-surgeon.md)|**12**|[Caçador de Bruxas](backgrounds/hexenbane.md)|
-|**3**|[Domador de Feras](backgrounds/beast-handler.md)|**13**|[Trovador](backgrounds/jongleur.md)|
-|**4**|[Guardião dos Ossos](backgrounds/bonekeeper.md)|**14**|[Caldeireiro](backgrounds/kettlewright.md)|
-|**5**|[Batedor de Bolsos](backgrounds/cutpurse.md)|**15**|[Patrulheiro de Fronteira](backgrounds/marchguard.md)|
-|**6**|[Patrulheiro dos Campos](backgrounds/fieldwarden.md)|**16**|[Charlatão](backgrounds/mountebank.md)|
-|**7**|[Flecheiro dos Ventos](backgrounds/fletchwind.md)|**17**|[Batedor Montado](backgrounds/outrider.md)|
-|**8**|[Enjeitado](backgrounds/foundling.md)|**18**|[Vigilante](backgrounds/prowler.md)|
-|**9**|[Coletor de Fungos](backgrounds/fungal-forager.md)|**19**|[Corredor do Riacho](backgrounds/rill-runner.md)|
-|**10**|[Sábio das Ervas](backgrounds/greenwise.md)|**20**|[Escriba](backgrounds/scrivener.md)|
+|**1**|[Ourives](../backgrounds/aurifex.md)|**11**|[Meia-Bruxa](../backgrounds/half-witch.md)|
+|**2**|[Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md)|**12**|[Caçador de Bruxas](../backgrounds/hexenbane.md)|
+|**3**|[Domador de Feras](../backgrounds/beast-handler.md)|**13**|[Trovador](../backgrounds/jongleur.md)|
+|**4**|[Guardião dos Ossos](../backgrounds/bonekeeper.md)|**14**|[Caldeireiro](../backgrounds/kettlewright.md)|
+|**5**|[Batedor de Bolsos](../backgrounds/cutpurse.md)|**15**|[Patrulheiro de Fronteira](../backgrounds/marchguard.md)|
+|**6**|[Patrulheiro dos Campos](../backgrounds/fieldwarden.md)|**16**|[Charlatão](../backgrounds/mountebank.md)|
+|**7**|[Flecheiro dos Ventos](../backgrounds/fletchwind.md)|**17**|[Batedor Montado](../backgrounds/outrider.md)|
+|**8**|[Enjeitado](../backgrounds/foundling.md)|**18**|[Vigilante](../backgrounds/prowler.md)|
+|**9**|[Coletor de Fungos](../backgrounds/fungal-forager.md)|**19**|[Corredor do Riacho](../backgrounds/rill-runner.md)|
+|**10**|[Sábio das Ervas](../backgrounds/greenwise.md)|**20**|[Escriba](../backgrounds/scrivener.md)|
 
 ## Atributos, Pontos de Guarda e Características 
 

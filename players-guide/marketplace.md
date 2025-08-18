@@ -1,9 +1,4 @@
----
-layout: default
-title: Marketplace
-parent: Player's Guide
-grand_parent: Second Edition
----
+ 
 
 # Mercado 
 
@@ -22,7 +17,7 @@ grand_parent: Second Edition
 
 ## Armas
 
-|                                                              |      |
+|  Arma                                              |  PO  |
 | ------------------------------------------------------------ | ---- |
 | Adaga, Porrete, Foice, Cajado, etc. (d6  dano)               | 5    |
 | Lança, Espada, Maça, Machado, Mangual, etc. (d8 dano)        | 10   |
@@ -33,7 +28,7 @@ grand_parent: Second Edition
 
 ## Transporte
 
-|||
+|  Transporte             |  PO  |
 |---|---|
 |Carroça (+4 espaços, _volumosa_)|30|
 |Carroção (+8 espaços, lento)|200|
@@ -44,7 +39,7 @@ grand_parent: Second Edition
 
 ## Manutenção e Recuperação
 
-|||
+|  Item             |  PO  |
 |---|---|
 |Pensão & Alojamento (por noite)|10|
 |Quarto Privado & Alojamento (para 4 pessoas)|35|
@@ -53,9 +48,9 @@ grand_parent: Second Edition
 |Rações (3 usos)|10|
 |Ração Animal (3 usos, volumosa)|5|
 
-## Contratados (por dia)
+## Mercenários (por dia)
 
-|||
+|  MMercenário             |  PO  |
 |---|---|
 |Alquimista|30|
 |Tratador de Animais|5|
@@ -72,7 +67,7 @@ grand_parent: Second Edition
 
 ## Equipamentos
 
-|||
+|  Equipamento             |  PO  |
 |---|---|
 |Bexiga de Ar|5|
 |Antitoxina|20|

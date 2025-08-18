@@ -1,9 +1,4 @@
----
-layout: default
-title: Overview & Principles
-parent: Player's Guide
-grand_parent: Second Edition
----
+ 
 
 # Visão Geral & Princípios
 
@@ -11,7 +6,7 @@ grand_parent: Second Edition
 
 ### Neutralidade
 
-O papel do Guardião é agir como um árbitro neutro e apresentar as regras, situações, personagens não jogadores (PNJs) e a narrativa de forma clara.
+O papel do Guardião é agir como um árbitro neutro e apresentar as regras, situações, Personagens Não Jogadores (PNJs) e a narrativa de forma clara.
 
 ### Sem Classes
 
@@ -27,7 +22,7 @@ Os dados nem sempre refletem a dificuldade de um obstáculo ou seu resultado. Em
 
 ### Crescimento
 
-Os personagens mudam através de avanços no mundo do jogo, ganhando novas habilidades ao sobreviver a eventos perigosos e superar obstáculos.
+Os personagens mudam ao avançarem pelo mundo do jogo, ganhando novas habilidades ao sobreviver a eventos perigosos e superar obstáculos.
 
 ### Escolha do Jogador
 
@@ -45,13 +40,13 @@ Os jogadores confiam uns nos outros para se envolver com o cenário compartilhad
 
 ### Autonomia
 
-- Atributos e testes relacionados não definem seu personagem. Eles são ferramentas.
+- Atributos e testes relacionados a eles não definem seu personagem. Eles são ferramentas.
 - Não pergunte apenas o que seu personagem faria; pergunte também o que você faria.
 - Seja criativo com sua intuição, itens e conexões.
 
 ### Trabalho em Equipe
 
-- Busque consenso com os outros jogadores antes de avançar precipitadamente.
+- Busque consenso com os outros jogadores antes de avançar apressadamente.
 - Mantenham-se alinhados sobre metas e limites, respeitando uns aos outros e alcançando mais como grupo do que sozinhos.
 
 ### Exploração
@@ -67,17 +62,17 @@ Os jogadores confiam uns nos outros para se envolver com o cenário compartilhad
 
 ### Cautela
 
-- Lutar é uma escolha e raramente uma sábia; considere se a violência é a melhor forma de atingir seus objetivos.
+- Lutar é uma escolha e raramente uma escolha sábia; considere se a violência é a melhor forma de atingir seus objetivos.
 - Tente empilhar as probabilidades a seu favor e recue quando as coisas parecerem desfavoráveis.
 
 ### Planejamento
 
 - Pense em maneiras de evitar obstáculos por meio de reconhecimento, sutileza e coleta de informações.
-- Pesquise e pergunte sobre seus objetivos.
+- Pesquise e pergunte por aí sobre seus objetivos.
 
 ### Ambição
 
-- Defina metas e use seus recursos limitados para avançar.
+- Defina metas e use seus limitados recursos para avançar.
 - Não espere nada. Conquiste sua reputação.
 - Mantenha as coisas avançando e jogue para ver o que acontece.
 
@@ -86,7 +81,7 @@ Os jogadores confiam uns nos outros para se envolver com o cenário compartilhad
 ### Informação
 
 - Forneça informações úteis sobre o mundo do jogo conforme os personagens o exploram.
-- Os jogadores não precisam rolar dados para aprender sobre suas circunstâncias.
+- Os jogadores não precisam rolar dados para o que está acontecendo ao seu redor.
 - Seja útil e direto ao responder às perguntas deles.
 - Responda com honestidade, descreva de forma consistente e sempre deixe claro que eles podem continuar perguntando.
 
@@ -94,7 +89,7 @@ Os jogadores confiam uns nos outros para se envolver com o cenário compartilhad
 
 - Priorize o contexto e o realismo em vez de números e mecânicas.
 - Se algo que os jogadores querem fazer for realmente impossível, nenhum teste permitirá que consigam.
-- O que o jogador descreve e a forma como aproveita a situação fazem sentido? Então permita.
+- O que o jogador descreve e a forma como tira proveito da situação fazem sentido? Então permita.
 - Testes abrangem muitas situações incertas e, muitas vezes, são suficientes para ações arriscadas.
 
 ### Preparação
@@ -102,27 +97,27 @@ Os jogadores confiam uns nos outros para se envolver com o cenário compartilhad
 - O mundo do jogo é orgânico, maleável e aleatório. Ele reage intuitivamente e pode mudar bruscamente.
 - Use tabelas e geradores aleatórios para criar situações, não histórias ou enredos.
 - PNJs se lembram do que os personagens dizem e fazem, e como afetam o mundo.
-- PNJs não querem morrer. Insira seu instinto de sobrevivência e interesse próprio em cada personalidade.
+- PNJs não querem morrer. Coloque instinto de sobrevivência e interesse próprio em cada um.
 
 ### Foco Narrativo
 
-- A experiência emergente do jogo é o que importa, não cálculos ou habilidades de personagem. Ofereça treinadores de armas e missões pessoais para facilitar melhorias e especializações.
+- A experiência emergente do jogo é o que importa, não cálculos ou habilidades de personagem. Ofereça treinamentos de armas e missões pessoais para facilitar melhorias e especializações.
 - Preste atenção às necessidades e vontades dos jogadores e coloque oportunidades realistas em seu caminho.
 - Uma adaga na garganta pode matar, independentemente da armadura cara ou treinamento impressionante.
 
 ### Perigo
 
 - O mundo do jogo apresenta risco real de dor e morte para os personagens.
-- Sinalize claramente o perigo quando ele estiver presente.  Quanto mais perigoso, mais óbvio deve ser.
+- Deixe claro o perigo quando ele estiver presente.  Quanto mais perigoso, mais óbvio deve ser.
 - Coloque armadilhas à vista e permita que os jogadores tenham tempo para encontrar uma solução.
 - Ofereça oportunidades para resolver problemas e interagir com o mundo.
 
 ### Tesouro
 
 - Um Tesouro é específico do ambiente de onde foi retirado. Ele conta uma história.
-- Tesouro é altamente valioso, quase sempre volumoso e raramente útil além de seu valor e prestígio.
+- Tesouro é altamente valioso, quase sempre volumoso e raramente tem alguama utilidade para além de seu valor e prestígio.
 - Relíquias não são Tesouros, embora sejam úteis e interessantes.
-- Use Tesouro como isca para locais exóticos sob a proteção de inimigos intimidadoras.
+- Use Tesouro como isca para locais exóticos sob a proteção de inimigos intimidadores.
 
 ### Escolha
 

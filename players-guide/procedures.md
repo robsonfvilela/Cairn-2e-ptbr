@@ -1,9 +1,4 @@
----
-layout: default
-title: Procedures
-parent: Player's Guide
-grand_parent: Second Edition
----
+ 
 
 # Procedimentos
 
