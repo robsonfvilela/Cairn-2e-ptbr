@@ -161,7 +161,7 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 
 **Pergaminhos** são similares a grimórios, mas:
 
-- São _pequenos_.
+- São _miudezas_.
 - Não causam **Fadiga**.
 - Desaparecem após um único uso.
 

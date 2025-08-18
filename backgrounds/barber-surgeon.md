@@ -1,6 +1,6 @@
  
 
-# Barbeiro-Cirurgião
+# Barbeiro-Cirurgião [Barber-Surgeon]
 
 > Você caminha na linha entre curandeiro e flagelador, conhecendo a fragilidade da carne, mas também os segredos que residem em seu interior. Com as ferramentas certas, a vida e a morte são apenas palavras.
 
@@ -16,7 +16,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 - Serra de Ossos (d6)
 - Bandagens (3 usos)
 - Sanguessuga (restaura 1 FOR, 3 usos)
-- Roupas Médicas Manchadas (_pequenas_)
+- Roupas Médicas Manchadas (_miudezas_)
 
 ## Como você “melhorou” a si mesmo? Role 1d6:
 

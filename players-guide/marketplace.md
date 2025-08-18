@@ -77,7 +77,7 @@
 |Abrojos|10|
 |Baralho|5|
 |Corrente (3 m)|10|
-|Giz (_miúdo_)|1|
+|Giz (_miudeza_)|1|
 |Baú|25|
 |Cinzel|5|
 |Agentes Comuns (Cola, Graxa, etc.)|10|
@@ -92,7 +92,7 @@
 |Óleo Incendiário|10|
 |Vara de Pesca|10|
 |Jogos (Cartas, Dados, etc.)|10|
-|Luvas (_miúdo_)|20|
+|Luvas (_miudeza_)|20|
 |Gancho de Escalada|25|
 |Lanterna|10|
 |Espelho|5|
@@ -106,7 +106,7 @@
 |Sedativo|30|
 |Kit de Costura|20|
 |Instrumentos Simples (Flauta, Alaúde, etc.)|10|
-|Cachimbo (_miúdo_)|15|
+|Cachimbo (_miudeza_)|15|
 |Ferramentas Especializadas (Tinta, etc.)|20|
 |Botas com Cravos|15|
 |Luneta|40|
@@ -114,5 +114,5 @@
 |Ferramentas de Ladrão (Ganzua, Lima de Metal, etc.)|25|
 |Tocha (3 usos)|5|
 |Armadilha (d6 dano de FOR)|35|
-|Apito (_miúdo_)|15|
-|Roupas de Campanha (Poncho, Capa, etc.) (_miúdo_)|15|
+|Apito (_miudeza_)|15|
+|Roupas de Campanha (Poncho, Capa, etc.) (_miudeza_)|15|
